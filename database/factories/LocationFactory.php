@@ -1,0 +1,16 @@
+<?php
+
+/** @var \Illuminate\Database\Eloquent\Factory $factory */
+
+use App\Models\Location;
+
+use Faker\Generator as Faker;
+
+$factory->define(Location::class, function (Faker $faker) {
+    return [
+        'country' => $faker->word,
+        'city' => $faker->word,
+        'street' => $faker->word,
+        //'deleted_at' => $faker->Null ,
+    ];
+});
