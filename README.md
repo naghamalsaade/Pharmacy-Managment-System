@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="{{asset('img/logo.png')}}" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://w7.pngwing.com/pngs/518/343/png-transparent-pharmacist-pharmacy-health-care-bowl-of-hygieia-pharmacy-logo.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -11,6 +11,14 @@
 
 A multi-branch, multi-store pharmacy management system.
 This system is used by three types of users: Super admin - Pharmacy employee - store employee
+
+- The system supports both Arabic and English languages
+- Notification system when a product is about to expire or run out
+- The ability to send an email
+- The ability for customers to pay electronically
+- Export reports to pdf , excel
+- The ability to print the report
+- Possibility to change the site's theme
 
 ## Admin Requirements:
 
@@ -27,7 +35,7 @@ This system is used by three types of users: Super admin - Pharmacy employee - s
 - View all medicines / edit / delete
 
 ### Medical Food Department
-- Add a new medicinal food
+- Add a new medical food
 - View all medical food / edit / delete
 
 ### Medical Supplies Department
@@ -119,7 +127,7 @@ This system is used by three types of users: Super admin - Pharmacy employee - s
 - View details of a specific drug.
 
 ### Medical Food Department
-- Add a new medicinal food
+- Add a new medical food
 - View all medical food / edit / delete
 
 - View the foods in the pharmacy
@@ -221,7 +229,7 @@ This system is used by three types of users: Super admin - Pharmacy employee - s
 - View details of a specific drug.
 
 ### Medical Food Department
-- Add a new medicinal food
+- Add a new medical food
 - View all medical food / edit / delete
 
 - View the foods in the inventory
