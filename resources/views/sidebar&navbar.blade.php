@@ -273,7 +273,7 @@
                     <div class="card-header" id="headingTwelve">
                         <h2>
                             <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-                                <a class="option-name"><i class="fa fa-money"></i><span>Reckoning</span></a>
+                                <a class="option-name"><i class="fa fa-money"></i><span>Reckonings</span></a>
                             </button>
                         </h2>
                     </div>

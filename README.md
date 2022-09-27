@@ -7,73 +7,88 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+A multi-branch, multi-store pharmacy management system.
+This system is used by three types of users: Super admin - Pharmacy employee - store employee
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Job Requirements:
+# Medicine Department
+Adding a new type
+View all types / edit / delete
+Add a new category
+View all categories / edit / delete
+Add a new age group
+View all age groups / edit / delete
+Adding a new active ingredient
+View all articles / edit / delete
+add medicine
+View all medicines / edit / delete
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+# Medical Food Division
+Add a new medicinal food
+View all medical food / edit / delete
 
-## Learning Laravel
+# Medical Supplies Department
+Add a new medical item
+View all medical supplies / edit / delete
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+# Cosmetics department
+Add a new cosmetic
+View all cosmetics / edit / delete
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+# Branches
+View all branches
+View all pharmacies.
+View all inventories.
+Add new branch / edit / delete.
+View the employees of a specific branch.
+View customers: all customers / customers who have debts in a specific pharmacy
+View specific pharmacy bills.
+View specific pharmacy return bills.
+View reimbursements at a specific pharmacy.
+Displaying debts at a particular pharmacy.
+View orders for a specific inventory.
+View invoices for a specific inventory.
+View the warehouses that a specific store has dealt with.
 
-## Laravel Sponsors
+# Employees
+View all employees.
+View all pharmacies employees.
+View all inventories employees.
+Add new employee/modify/delete.
+View all activities within the system.
+View the activities of a specific employee.
+View bills of sale made by a particular pharmacy employee.
+View return invoices made by a particular pharmacy employee.
+View reimbursements made by a particular pharmacy employee.
+View the orders made by a particular inventory employee.
+View invoices made by a particular inventory employee.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+# Customers
+View all customers.
+Show all customers who have debt to pay.
+View customer invoices in a specific branch or in all the branches from which he purchased.
+View the return invoices for a customer in a specific branch or in all the branches from which he purchased.
+View payments to a customer in a specific branch or in all the branches from which he made a purchase.
+View debts to a customer in a particular branch or in all the branches from which he purchased.
+View the products that the customer has purchased from a specific branch or from all branches.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
+# Warehouses
+View all warehouses
+View orders from a specific warehouse.
+View invoices for a specific warehouse.
 
-## Contributing
+# Pharmacy invoices
+View all invoices.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+# Returns
+View all return invoices.
 
-## Code of Conduct
+# Inventory invoices
+View all orders.
+View all invoices.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# Pharmacy-Managment-System" 
+# Reckonings
+View all debts.
+View all payments.
