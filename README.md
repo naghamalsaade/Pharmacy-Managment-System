@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://w7.pngwing.com/pngs/518/343/png-transparent-pharmacist-pharmacy-health-care-bowl-of-hygieia-pharmacy-logo.png" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="{{asset('img/logo.png')}}" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
