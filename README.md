@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://thumbs.dreamstime.com/b/pharmacy-logo-template-modern-abstract-button-shape-emblem-medical-service-cross-abstract-decoration-medical-logotype-192166171.jpg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.dropbox.com/s/n2ok7a11xrobwwp/pharmacy%20logo.png?dl=0" width="400"></a></p>
 
 ## About project
 
