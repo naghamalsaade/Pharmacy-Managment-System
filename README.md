@@ -2,8 +2,8 @@
 
 ## About project
 
-A multi-branch, multi-store pharmacy management system.
-This system is used by three types of users: Super admin - Pharmacy employee - store employee
+Multi-branch and store pharmacy management system. This system is used by three types of users the super admins, pharmacy employees, store employees. Transfers from the stores to all pharmacy branches are managed, follow-up of products and their quantities, preparation of invoices and orders, and preparation of reports.
+The front end was built using laravel blade.
 
 - The system supports both Arabic and English languages
 - Notification system when a product is about to expire or run out
